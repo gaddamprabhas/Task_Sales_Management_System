@@ -1,0 +1,6 @@
+{
+  "TaskSales.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api",
+  "TaskSales.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application",
+  "TaskSales.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain",
+  "TaskSales.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure"
+}

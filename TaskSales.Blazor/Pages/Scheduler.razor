@@ -1,0 +1,83 @@
+﻿@page "/scheduler"
+
+@using Syncfusion.Blazor.Schedule
+@using TaskSales.Application.DTOs
+@inject IHttpClientFactory ClientFactory
+
+<h3>Company Scheduler</h3>
+
+<SfSchedule TValue="SchedulerEventDto"
+            Height="650px"
+            SelectedDate="@DateTime.Today">
+
+    <!-- ✅ DATA + CRUD CONFIG -->
+    <ScheduleEventSettings DataSource="@Events"
+                           AllowAdding="true"
+                           AllowEditing="true"
+                           AllowDeleting="true">
+
+        <!-- ✅ CORRECT FIELD MAPPING (v32.x) -->
+        <ScheduleEventFieldSettings Id="Id"
+                                    Subject="Title"
+                                    StartTime="StartTime"
+                                    EndTime="EndTime" />
+    </ScheduleEventSettings>
+
+    <!-- ✅ VIEWS -->
+    <ScheduleViews>
+        <ScheduleView Option="View.Day" />
+        <ScheduleView Option="View.Week" />
+        <ScheduleView Option="View.Month" />
+        <ScheduleView Option="View.Agenda" />
+    </ScheduleViews>
+
+    <!-- ✅ ACTION EVENTS GO HERE (NOT SfSchedule) -->
+    <ScheduleEvents TValue="SchedulerEventDto"
+                    OnActionBegin="@OnActionBegin" />
+
+</SfSchedule>
+
+@code {
+
+    private List<SchedulerEventDto> Events = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadEvents();
+    }
+
+    private async Task LoadEvents()
+    {
+        var client = ClientFactory.CreateClient("Api");
+        Events = await client
+            .GetFromJsonAsync<List<SchedulerEventDto>>("api/scheduler")
+            ?? new();
+    }
+
+    // ✅ FULLY QUALIFIED TYPE — NO AMBIGUITY
+    private async Task OnActionBegin(
+        Syncfusion.Blazor.Schedule.ActionEventArgs<SchedulerEventDto> args)
+    {
+        var client = ClientFactory.CreateClient("Api");
+
+        if (args.ActionType == ActionType.EventCreate)
+        {
+            await client.PostAsJsonAsync("api/scheduler", args.AddedRecords.First());
+            args.Cancel = true;
+        }
+        else if (args.ActionType == ActionType.EventChange)
+        {
+            var ev = args.ChangedRecords.First();
+            await client.PutAsJsonAsync($"api/scheduler/{ev.Id}", ev);
+            args.Cancel = true;
+        }
+        else if (args.ActionType == ActionType.EventRemove)
+        {
+            var ev = args.DeletedRecords.First();
+            await client.DeleteAsync($"api/scheduler/{ev.Id}");
+            args.Cancel = true;
+        }
+
+        await LoadEvents();
+    }
+}

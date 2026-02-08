@@ -1,0 +1,141 @@
+﻿@page "/mytasks"
+@attribute [Authorize]
+
+@using TaskSales.Application.DTOs
+@using DomainTaskStatus = TaskSales.Domain.Enums.TaskStatus
+@using System.Net.Http.Json
+
+@inject IHttpClientFactory ClientFactory
+@inject AuthenticationStateProvider Auth
+@inject EmployeeApiService EmployeeService
+
+<h3 class="page-title mb-3">
+    <i class="bi bi-check-circle-fill text-success me-2"></i>
+    My Tasks
+</h3>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+
+        @if (isLoading)
+        {
+            <p>Loading tasks...</p>
+        }
+        else if (!tasks.Any())
+        {
+            <div class="alert alert-info">
+                No tasks assigned to you.
+            </div>
+        }
+        else
+        {
+            <table class="table table-bordered align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th>Title</th>
+                        <th>Status</th>
+                        <th>Due Date</th>
+                        <th>Feedback</th>
+                        <th style="width:120px">Action</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var task in tasks)
+                    {
+                        <tr>
+                            <td>@task.Title</td>
+
+                            <td>
+                                <select class="form-select"
+                                        disabled="@(task.Status == DomainTaskStatus.Completed)"
+                                        @bind="task.Status"
+                                        @bind:after="() => MarkModified(task)">
+                                    <option value="@DomainTaskStatus.Pending">Pending</option>
+                                    <option value="@DomainTaskStatus.InProgress">In Progress</option>
+                                    <option value="@DomainTaskStatus.Completed">Completed</option>
+                                </select>
+                            </td>
+
+                            <td>
+                                @task.DueDate.ToString("dd-MM-yyyy")
+                            </td>
+
+                            <td>
+                                <input class="form-control"
+                                       placeholder="Feedback (optional)"
+                                       disabled="@(task.Status != DomainTaskStatus.Completed)"
+                                       @bind="taskFeedback[task.Id]" />
+                            </td>
+
+                            <td>
+                                <button class="btn btn-success btn-sm w-100"
+                                        disabled="@(!modifiedTasks.Contains(task.Id))"
+                                        @onclick="() => SaveAsync(task)">
+                                    Save
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+    </div>
+</div>
+
+@code {
+    private List<TaskDto> tasks = new();
+    private Dictionary<int, string?> taskFeedback = new();
+    private HashSet<int> modifiedTasks = new();
+    private bool isLoading = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await Auth.GetAuthenticationStateAsync();
+
+        var userId = authState.User
+            .FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)
+            ?.Value;
+
+        if (string.IsNullOrEmpty(userId))
+            return;
+
+        var employeeId = await EmployeeService.GetEmployeeIdAsync(userId);
+
+        var client = ClientFactory.CreateClient("Api");
+
+        tasks = await client
+            .GetFromJsonAsync<List<TaskDto>>($"api/tasks/my/{employeeId}")
+            ?? new();
+
+        foreach (var task in tasks)
+        {
+            taskFeedback[task.Id] = null;
+        }
+
+        isLoading = false;
+    }
+
+    private void MarkModified(TaskDto task)
+    {
+        modifiedTasks.Add(task.Id);
+    }
+
+    private async Task SaveAsync(TaskDto task)
+    {
+        var client = ClientFactory.CreateClient("Api");
+
+        var dto = new TaskStatusUpdateDto
+        {
+            Status = task.Status,
+            Feedback = taskFeedback[task.Id]
+        };
+
+        await client.PatchAsJsonAsync(
+            $"api/tasks/{task.Id}/status-update",
+            dto);
+
+        modifiedTasks.Remove(task.Id);
+    }
+}

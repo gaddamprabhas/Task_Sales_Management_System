@@ -1,0 +1,43 @@
+﻿@page "/feedback"
+@attribute [Authorize]
+
+@using TaskSales.Blazor.Models
+@inject FeedbackApiService FeedbackService
+
+<h3>User Feedback</h3>
+
+@if (feedbacks == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>User</th>
+                <th>Message</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var f in feedbacks)
+            {
+                <tr>
+                    <td>@f.UserName</td>
+                    <td>@f.Message</td>
+                    <td>@f.CreatedAt</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<UserFeedback>? feedbacks;
+
+    protected override async Task OnInitializedAsync()
+    {
+        feedbacks = await FeedbackService.GetAllAsync();
+    }
+}

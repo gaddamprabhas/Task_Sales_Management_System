@@ -1,0 +1,45 @@
+﻿@page "/logs"
+@attribute [Authorize(Roles = "Admin")]
+
+@using TaskSales.Blazor.Models
+@inject LogApiService LogService
+
+<h3>Activity Logs</h3>
+
+@if (logs == null)
+{
+    <p>Loading...</p>
+}
+else if (!logs.Any())
+{
+    <p>No activity logs found.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Action</th>
+                <th>Timestamp</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var log in logs)
+            {
+                <tr>
+                    <td>@log.Action</td>
+                    <td>@log.Timestamp.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<ActivityLog>? logs;
+
+    protected override async Task OnInitializedAsync()
+    {
+        logs = await LogService.GetAllAsync();
+    }
+}

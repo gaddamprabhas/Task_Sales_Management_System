@@ -1,0 +1,142 @@
+﻿@page "/sales"
+@attribute [Authorize]
+
+@using TaskSales.Application.DTOs
+@using Syncfusion.Blazor.Grids
+@using Syncfusion.Blazor.DropDowns
+
+@inject SalesApiService SalesService
+@inject EmployeeApiService EmployeeService
+
+<h3 class="page-title mb-3">
+    <i class="bi bi-currency-rupee text-warning me-2"></i>
+    Sales
+</h3>
+
+<button class="btn btn-primary mb-3" @onclick="ShowForm">
+    + Add Sale
+</button>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+
+        <SfGrid DataSource="@sales" AllowPaging="true">
+            <GridPageSettings PageSize="5" />
+
+            <GridColumns>
+                <GridColumn Field="ProductName"
+                            HeaderText="Product"
+                            Width="200" />
+
+                <GridColumn Field="Quantity"
+                            HeaderText="Qty"
+                            Width="100" />
+
+                <GridColumn Field="TotalAmount"
+                            HeaderText="Amount"
+                            Width="150" />
+
+                <GridColumn Field="SaleDate"
+                            HeaderText="Date"
+                            Format="d"
+                            Width="150" />
+            </GridColumns>
+        </SfGrid>
+
+    </div>
+</div>
+
+@if (showForm)
+{
+    <div class="card shadow-sm mt-4">
+        <div class="card-body">
+
+            <div class="mb-3">
+                <label class="form-label">Product</label>
+                <input class="form-control"
+                       @bind="sale.ProductName" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Quantity</label>
+                <input type="number"
+                       class="form-control"
+                       @bind="sale.Quantity" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Total Amount</label>
+                <input type="number"
+                       class="form-control"
+                       @bind="sale.TotalAmount" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Employee</label>
+                <SfDropDownList TValue="int"
+                                TItem="EmployeeDto"
+                                DataSource="@employees"
+                                @bind-Value="sale.EmployeeId"
+                                Placeholder="Select Employee">
+                    <DropDownListFieldSettings Text="FullName"
+                                               Value="Id" />
+                </SfDropDownList>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Date</label>
+                <input type="date"
+                       class="form-control"
+                       @bind="sale.SaleDate" />
+            </div>
+
+            <div class="d-flex gap-2 mt-3">
+                <button class="btn btn-success"
+                        @onclick="Save">
+                    Save
+                </button>
+
+                <button class="btn btn-secondary"
+                        @onclick="Cancel">
+                    Cancel
+                </button>
+            </div>
+
+        </div>
+    </div>
+}
+
+@code {
+    private List<SaleDto> sales = new();
+    private List<EmployeeDto> employees = new();
+    private SaleDto sale = new();
+    private bool showForm;
+
+    protected override async Task OnInitializedAsync()
+    {
+        sales = await SalesService.GetAllAsync();
+        employees = await EmployeeService.GetAllAsync();
+    }
+
+    private void ShowForm()
+    {
+        sale = new SaleDto
+        {
+            SaleDate = DateTime.Today
+        };
+
+        showForm = true;
+    }
+
+    private async Task Save()
+    {
+        await SalesService.CreateAsync(sale);
+        showForm = false;
+        sales = await SalesService.GetAllAsync();
+    }
+
+    private void Cancel()
+    {
+        showForm = false;
+    }
+}

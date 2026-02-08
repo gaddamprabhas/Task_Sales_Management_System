@@ -1,0 +1,209 @@
+﻿@page "/workflow"
+@attribute [Authorize(Roles = "Admin")]
+
+<h3 class="text-center mb-4">Task & Sales Workflow</h3>
+
+<div class="workflow">
+
+    <!-- ADMIN -->
+    <div class="wf-card">
+        <div class="wf-inner">
+            <div class="wf-front purple">
+                <h5>Admin</h5>
+                <p>Create & Assign Tasks</p>
+            </div>
+            <div class="wf-back purple">
+                <ul>
+                    <li>Create tasks</li>
+                    <li>Assign employees</li>
+                    <li>Track progress</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- DECISION -->
+    <div class="wf-diamond blue">
+        <div>Task Valid?</div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- UI -->
+    <div class="wf-card">
+        <div class="wf-inner">
+            <div class="wf-front teal">
+                <h5>Blazor UI</h5>
+                <p>Forms & Dashboards</p>
+            </div>
+            <div class="wf-back teal">
+                <ul>
+                    <li>Task listing</li>
+                    <li>Status update</li>
+                    <li>Charts</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- DECISION -->
+    <div class="wf-diamond blue">
+        <div>Authorized?</div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- API -->
+    <div class="wf-card">
+        <div class="wf-inner">
+            <div class="wf-front orange">
+                <h5>ASP.NET Core API</h5>
+                <p>Business Logic</p>
+            </div>
+            <div class="wf-back orange">
+                <ul>
+                    <li>Validation</li>
+                    <li>Task & Sales APIs</li>
+                    <li>Security</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- DATABASES -->
+    <div class="db-row">
+
+        <div class="wf-diamond green">
+            <div>
+                <strong>SQL</strong><br />
+                Tasks & Sales
+            </div>
+        </div>
+
+        <div class="wf-diamond yellow">
+            <div>
+                <strong>MongoDB</strong><br />
+                Logs & Analytics
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<style>
+    /* =============================
+       WORKFLOW FLOWCHART STYLE
+    ============================= */
+
+    .workflow {
+        max-width: 900px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 26px;
+    }
+
+    /* ---------- FLIP CARD ---------- */
+    .wf-card {
+        width: 280px;
+        height: 120px;
+        perspective: 1000px;
+    }
+
+    .wf-inner {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        transform-style: preserve-3d;
+        transition: transform 0.7s;
+    }
+
+    .wf-card:hover .wf-inner {
+        transform: rotateY(180deg);
+    }
+
+    .wf-front,
+    .wf-back {
+        position: absolute;
+        inset: 0;
+        padding: 18px;
+        border-radius: 14px;
+        color: #fff;
+        backface-visibility: hidden;
+        box-shadow: 0 10px 25px rgba(0,0,0,.15);
+    }
+
+        .wf-front h5 {
+            margin-bottom: 6px;
+        }
+
+    .wf-back {
+        transform: rotateY(180deg);
+        font-size: 14px;
+    }
+
+    /* ---------- ARROW ---------- */
+    .arrow {
+        width: 2px;
+        height: 35px;
+        background: #adb5bd;
+    }
+
+    /* ---------- DIAMOND ---------- */
+    .wf-diamond {
+        width: 120px;
+        height: 120px;
+        transform: rotate(45deg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 10px 25px rgba(0,0,0,.15);
+        color: #fff;
+        font-weight: 600;
+    }
+
+        .wf-diamond div {
+            transform: rotate(-45deg);
+            text-align: center;
+            font-size: 14px;
+        }
+
+    /* ---------- DATABASE ROW ---------- */
+    .db-row {
+        display: flex;
+        gap: 70px;
+    }
+
+    /* ---------- COLORS ---------- */
+    .purple {
+        background: linear-gradient(135deg,#7b5cff,#5f2cff);
+    }
+
+    .teal {
+        background: linear-gradient(135deg,#20c997,#0ca678);
+    }
+
+    .orange {
+        background: linear-gradient(135deg,#ff922b,#fd7e14);
+    }
+
+    .green {
+        background: linear-gradient(135deg,#51cf66,#2f9e44);
+    }
+
+    .yellow {
+        background: linear-gradient(135deg,#ffd43b,#fab005);
+    }
+
+    .blue {
+        background: linear-gradient(135deg,#339af0,#1c7ed6);
+    }
+</style>

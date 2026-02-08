@@ -1,0 +1,163 @@
+﻿@page "/dashboard"
+@attribute [Authorize(Roles = "Admin")]
+@using DomainTaskStatus = TaskSales.Domain.Enums.TaskStatus
+
+@using Syncfusion.Blazor.Charts
+@using TaskSales.Application.DTOs
+@inject DashboardApiService DashboardService
+@inject TaskApiService TaskService
+
+<div class="d-flex align-items-center mb-4">
+    <i class="bi bi-bar-chart-fill fs-3 me-2 text-primary"></i>
+    <h3 class="mb-0">Task & Sales Dashboard</h3>
+</div>
+
+<div class="row g-4 mb-4">
+
+    <div class="col-md-4">
+        <div class="kpi-pro kpi-blue">
+            <div class="kpi-left">
+                <div class="kpi-title">Total Tasks</div>
+                <div class="kpi-value">@kpis?.TotalTasks</div>
+            </div>
+            <div class="kpi-icon">
+                <i class="bi bi-list-task"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="kpi-pro kpi-green">
+            <div class="kpi-left">
+                <div class="kpi-title">Completed Tasks</div>
+                <div class="kpi-value">@kpis?.CompletedTasks</div>
+            </div>
+            <div class="kpi-icon">
+                <i class="bi bi-check-circle"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="kpi-pro kpi-orange">
+            <div class="kpi-left">
+                <div class="kpi-title">Total Sales</div>
+                <div class="kpi-value">₹ @kpis?.TotalSales</div>
+            </div>
+            <div class="kpi-icon">
+                <i class="bi bi-currency-rupee"></i>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+<!-- SALES LINE -->
+<div class="card shadow-sm mb-4">
+    <div class="card-header bg-white fw-bold">Monthly Sales Trend</div>
+    <div class="card-body">
+
+        @if (salesTrend.Any())
+        {
+            <SfChart Height="300px">
+                <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.DateTime"
+                                   LabelFormat="dd MMM" />
+                <ChartPrimaryYAxis Title="Sales Amount" />
+
+                <ChartSeriesCollection>
+                    <ChartSeries DataSource="@salesTrend"
+                                 XName="Date"
+                                 YName="Total"
+                                 Type="ChartSeriesType.Line"
+                                 Width="4">
+                    </ChartSeries>
+                </ChartSeriesCollection>
+            </SfChart>
+        }
+        else
+        {
+            <p class="text-muted">No sales data.</p>
+        }
+
+    </div>
+</div>
+
+<!-- LOWER ROW -->
+<div class="row g-4">
+
+    <!-- TASKS BY EMP -->
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-header bg-white fw-bold">Tasks by Employee</div>
+            <div class="card-body">
+
+                @if (tasksByEmployee.Any())
+                {
+                    <SfChart Height="280px">
+                        <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category" />
+
+                        <ChartSeriesCollection>
+                            <ChartSeries DataSource="@tasksByEmployee"
+                                         XName="Label"
+                                         YName="Count"
+                                         Type="ChartSeriesType.Column">
+                            </ChartSeries>
+                        </ChartSeriesCollection>
+                    </SfChart>
+                }
+                else
+                {
+                    <p class="text-muted">No data</p>
+                }
+
+            </div>
+        </div>
+    </div>
+
+    <!-- TASK STATUS -->
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-header bg-white fw-bold">Task Status</div>
+            <div class="card-body">
+
+                @if (taskStatus.Any())
+                {
+                    <SfAccumulationChart Height="280px">
+                        <AccumulationChartSeriesCollection>
+                            <AccumulationChartSeries DataSource="@taskStatus"
+                                                     XName="Label"
+                                                     YName="Count"
+                                                     Type="AccumulationType.Pie">
+                            </AccumulationChartSeries>
+                        </AccumulationChartSeriesCollection>
+                    </SfAccumulationChart>
+                }
+                else
+                {
+                    <p class="text-muted">No data</p>
+                }
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@code {
+
+    private List<TaskReportDto> tasksByEmployee = new();
+    private List<TaskReportDto> taskStatus = new();
+    private List<SalesTrendDto> salesTrend = new();
+
+    private DashboardKpiDto? kpis = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        kpis = await DashboardService.GetKpisAsync();
+        salesTrend = await DashboardService.GetSalesTrendAsync();
+        tasksByEmployee = await TaskService.GetTasksByEmployeeAsync();
+        taskStatus = await TaskService.GetTaskStatusAsync();
+    }
+}

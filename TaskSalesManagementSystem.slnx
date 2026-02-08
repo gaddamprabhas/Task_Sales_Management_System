@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="TaskSales.Api/TaskSales.Api.csproj" />
+  <Project Path="TaskSales.Application/TaskSales.Application.csproj" Id="3810fea9-d40c-4179-a669-b9650a5c62de" />
+  <Project Path="TaskSales.Blazor/TaskSales.Blazor.csproj" Id="8bc6e679-3415-4183-96c1-67c9524f5d1d" />
+  <Project Path="TaskSales.Domain/TaskSales.Domain.csproj" Id="6679b1b7-4a3c-4122-97d8-6d1bb30ee4f8" />
+  <Project Path="TaskSales.Infrastructure/TaskSales.Infrastructure.csproj" Id="6940eaf9-31e4-462b-bc2a-bdee642f2ab4" />
+  <Project Path="TaskSales.Tests.Integration/TaskSales.Tests.Integration.csproj" Id="b8806bb6-db0c-42b1-9747-94e93ac6f80f" />
+  <Project Path="TaskSales.Tests.Unit/TaskSales.Tests.Unit.csproj" Id="8d9002f1-b920-43b6-88d8-7e9ba17c9510" />
+</Solution>

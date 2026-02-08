@@ -1,0 +1,65 @@
+﻿@using Microsoft.AspNetCore.Components.Authorization
+
+<div class="sidebar">
+
+    <!-- ===== APP NAME ===== -->
+    <div class="sidebar-brand px-3 mb-3">
+        <span class="fw-bold text-white fs-5">TaskSales</span>
+    </div>
+
+    <nav class="flex-column">
+
+        <!-- =========================
+             ALL AUTHENTICATED USERS
+        ========================== -->
+        <AuthorizeView>
+            <NavItem Icon="calendar-event"
+                     Text="Scheduler"
+                     Link="scheduler" />
+        </AuthorizeView>
+
+        <!-- =========================
+             NON-ADMIN USERS (EMPLOYEE)
+        ========================== -->
+        <AuthorizeView>
+            <Authorized Context="auth">
+                @if (!auth.User.IsInRole("Admin"))
+                {
+                    <NavItem Icon="list-check"
+                             Text="My Tasks"
+                             Link="mytasks" />
+
+                    <NavItem Icon="currency-rupee"
+                             Text="Sales"
+                             Link="sales" />
+                }
+            </Authorized>
+        </AuthorizeView>
+
+        <hr class="text-secondary mx-3" />
+
+        <!-- =========================
+             ADMIN ONLY
+        ========================== -->
+        <AuthorizeView Roles="Admin">
+
+            <NavItem Icon="speedometer2"
+                     Text="Dashboard"
+                     Link="dashboard" />
+
+            <NavItem Icon="clipboard-check"
+                     Text="Tasks"
+                     Link="tasks" />
+
+            <NavItem Icon="people"
+                     Text="Employees"
+                     Link="employees" />
+
+            <NavItem Icon="diagram-3"
+                     Text="Workflow"
+                     Link="workflow" />
+
+        </AuthorizeView>
+
+    </nav>
+</div>

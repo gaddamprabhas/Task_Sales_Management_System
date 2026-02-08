@@ -1,0 +1,108 @@
+﻿@page "/employees"
+@attribute [Authorize(Roles = "Admin")]
+
+@using Syncfusion.Blazor.Grids
+@using GridAction = Syncfusion.Blazor.Grids.Action
+@using TaskSales.Application.DTOs
+
+@inject EmployeeApiService EmployeeService
+@inject EmployeeState EmployeeState
+
+<!-- =========================
+     PAGE HEADER
+========================== -->
+<div class="d-flex align-items-center mb-3">
+    <h3 class="fw-semibold mb-0">
+        <i class="bi bi-people text-primary me-2"></i>
+        Employee Management
+    </h3>
+</div>
+
+<!-- =========================
+     CARD WRAPPER
+========================== -->
+<div class="card shadow-sm border-0">
+    <div class="card-body">
+
+        <SfGrid @ref="Grid"
+                TValue="EmployeeDto"
+                DataSource="@employees"
+                AllowPaging="true"
+                AllowSorting="true"
+                AllowResizing="true"
+                Height="400"
+                Toolbar="@(new List<string> { "Add", "Edit", "Delete", "Update", "Cancel" })"
+                OnActionBegin="OnActionBegin">
+
+            <GridEditSettings AllowAdding="true"
+                              AllowEditing="true"
+                              AllowDeleting="true"
+                              Mode="EditMode.Dialog" />
+
+            <GridPageSettings PageSize="8" />
+
+            <GridColumns>
+                <GridColumn Field="Id"
+                            IsPrimaryKey="true"
+                            Visible="false"
+                            AllowEditing="false" />
+
+                <GridColumn Field="FullName"
+                            HeaderText="Employee Name"
+                            Width="200" />
+
+                <GridColumn Field="Email"
+                            HeaderText="Email Address"
+                            Width="250" />
+
+                <GridColumn Field="Role"
+                            HeaderText="Role"
+                            Width="150" />
+            </GridColumns>
+
+        </SfGrid>
+
+    </div>
+</div>
+
+@code {
+    private SfGrid<EmployeeDto>? Grid;
+    private List<EmployeeDto> employees = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadEmployees();
+    }
+
+    private async Task LoadEmployees()
+    {
+        employees = await EmployeeService.GetAllAsync();
+    }
+
+    private async Task OnActionBegin(ActionEventArgs<EmployeeDto> args)
+    {
+        if (args.RequestType == GridAction.Save)
+        {
+            args.Cancel = true;
+
+            if (args.Action == "Add")
+                await EmployeeService.CreateAsync(args.Data);
+            else
+                await EmployeeService.UpdateAsync(args.Data);
+
+            await LoadEmployees();
+            EmployeeState.NotifyChanged();
+            await Grid!.Refresh();
+        }
+
+        if (args.RequestType == GridAction.Delete)
+        {
+            args.Cancel = true;
+
+            await EmployeeService.DeleteAsync(args.Data.Id);
+            await LoadEmployees();
+            EmployeeState.NotifyChanged();
+            await Grid!.Refresh();
+        }
+    }
+}

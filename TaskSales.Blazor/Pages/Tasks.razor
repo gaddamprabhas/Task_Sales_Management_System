@@ -1,0 +1,172 @@
+﻿@page "/tasks"
+@attribute [Authorize]
+@using DomainTaskStatus = TaskSales.Domain.Enums.TaskStatus
+
+@using TaskSales.Application.DTOs
+@using Syncfusion.Blazor.Grids
+@using Syncfusion.Blazor.DropDowns
+
+@inject TaskApiService TaskService
+@inject EmployeeApiService EmployeeService
+@inject AuthenticationStateProvider Auth
+@inject EmployeeState EmployeeState
+
+<h3 class="page-title">
+    <i class="bi bi-list-task text-primary me-2"></i> Task Management
+</h3>
+
+<button class="btn btn-primary mb-3" @onclick="ShowCreate">+ Add Task</button>
+
+<SfGrid DataSource="@tasks"
+        AllowPaging="true"
+        AllowSorting="true"
+        Toolbar="@(new List<string>() { "Search" })">
+
+    <GridPageSettings PageSize="5"></GridPageSettings>
+
+    <GridColumns>
+        <GridColumn Field="Title" HeaderText="Title" Width="200" />
+        <GridColumn Field="DueDate" HeaderText="Due Date" Format="d" Type="ColumnType.Date" Width="150" />
+
+        <GridColumn HeaderText="Assigned To" Width="200">
+            <Template>
+                @{
+                    var task = context as TaskDto;
+                    var emp = employees.FirstOrDefault(e => e.Id == task!.AssignedEmployeeId);
+                }
+                @emp?.FullName
+            </Template>
+        </GridColumn>
+
+        <GridColumn HeaderText="Actions" Width="200">
+            <Template>
+                @{
+                    var task = context as TaskDto;
+                }
+                <button class="btn btn-sm btn-warning me-2" @onclick="() => Edit(task!)">Edit</button>
+                <button class="btn btn-sm btn-danger" @onclick="() => Delete(task!.Id)">Delete</button>
+            </Template>
+        </GridColumn>
+    </GridColumns>
+</SfGrid>
+
+@if (showForm)
+{
+    <div class="card mt-4">
+        <div class="card-body">
+            <h5>@(isEdit ? "Edit Task" : "Create Task")</h5>
+
+            <div class="mb-2">
+                <label>Title</label>
+                <input class="form-control" @bind="currentTask.Title" />
+            </div>
+
+            <div class="mb-2">
+                <label>Due Date</label>
+                <input type="date" class="form-control" @bind="currentTask.DueDate" />
+            </div>
+
+            <div class="mb-3">
+                <label>Assign Employee</label>
+
+                <SfDropDownList TValue="int"
+                                TItem="EmployeeDto"
+                                DataSource="@employees"
+                                @bind-Value="currentTask.AssignedEmployeeId"
+                                Placeholder="Select Employee">
+                    <DropDownListFieldSettings Text="FullName" Value="Id" />
+                </SfDropDownList>
+            </div>
+
+            <button class="btn btn-success me-2" @onclick="Save">Save</button>
+            <button class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+        </div>
+    </div>
+}
+
+@code {
+    private List<TaskDto> tasks = new();
+    private List<EmployeeDto> employees = new();
+
+    private TaskDto currentTask = new();
+    private bool showForm;
+    private bool isEdit;
+    private bool isAdmin;
+
+    private int loggedEmployeeId;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var state = await Auth.GetAuthenticationStateAsync();
+        var user = state.User;
+
+        isAdmin = user.IsInRole("Admin");
+
+        var identityId = user.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value;
+        if (string.IsNullOrEmpty(identityId)) return;
+
+        loggedEmployeeId = await EmployeeService.GetEmployeeIdAsync(identityId);
+
+        employees = await EmployeeService.GetAllAsync();
+        await LoadTasksForEmployee();
+    }
+
+    private async Task LoadTasksForEmployee()
+    {
+        var all = await TaskService.GetTasksAsync();
+
+        if (isAdmin)
+            tasks = all;
+        else
+            tasks = all.Where(t => t.AssignedEmployeeId == loggedEmployeeId).ToList();
+
+        StateHasChanged();
+    }
+
+    private void ShowCreate()
+    {
+        currentTask = new TaskDto
+        {
+            DueDate = DateTime.Today
+        };
+        isEdit = false;
+        showForm = true;
+    }
+
+    private void Edit(TaskDto task)
+    {
+        currentTask = new TaskDto
+        {
+            Id = task.Id,
+            Title = task.Title,
+            DueDate = task.DueDate,
+            AssignedEmployeeId = task.AssignedEmployeeId,
+            Status = task.Status,
+            Priority = task.Priority
+        };
+        isEdit = true;
+        showForm = true;
+    }
+
+    private async Task Save()
+    {
+        if (currentTask.AssignedEmployeeId == 0)
+            return;
+
+        if (isEdit)
+            await TaskService.UpdateTaskAsync(currentTask);
+        else
+            await TaskService.CreateTaskAsync(currentTask);
+
+        showForm = false;
+        await LoadTasksForEmployee();
+    }
+
+    private async Task Delete(int id)
+    {
+        await TaskService.DeleteTaskAsync(id);
+        await LoadTasksForEmployee();
+    }
+
+    private void Cancel() => showForm = false;
+}

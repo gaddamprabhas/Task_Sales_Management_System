@@ -1,0 +1,1842 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\shared\\navitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\shared\\navitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\workflowdiagram.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\workflowdiagram.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\mongo\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\mongo\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\tasks\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\tasks\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\mongomodels\\userfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\mongomodels\\userfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\sales.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\sales.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\mytasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\mytasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\tasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\tasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\scheduler.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\scheduler.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\tasksales.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\tasksales.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\taskstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\taskstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\taskstatuschartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\taskstatuschartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\taskscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\taskscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.domain\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|solutionrelative:tasksales.domain\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|solutionrelative:tasksales.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\schedulereventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\schedulereventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\services\\schedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\services\\schedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\scheduler\\schedulercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\scheduler\\schedulercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.domain\\entities\\schedulerevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|solutionrelative:tasksales.domain\\entities\\schedulerevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\interfaces\\ischedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\interfaces\\ischedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\saleapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\saleapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|solutionrelative:tasksales.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\tasksales.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\tasksales.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\taskapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\taskapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\tasks\\taskreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\tasks\\taskreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\tasksales.blazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\tasksales.blazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\tasksales.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\tasksales.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\dashboardkpidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\dashboardkpidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|solutionrelative:tasksales.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\dashboardapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\dashboardapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260127125245_addtaskstatusandpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260127125245_addtaskstatusandpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\employeeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\employeeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\employeestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\employeestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\feedbackapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\feedbackapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\reportapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\reportapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\services\\salesreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\services\\salesreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\interfaces\\isalesreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\interfaces\\isalesreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\taskreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\taskreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\salestrenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\salestrenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.application\\dtos\\salesreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3810FEA9-D40C-4179-A669-B9650A5C62DE}|TaskSales.Application\\TaskSales.Application.csproj|solutionrelative:tasksales.application\\dtos\\salesreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|solutionrelative:tasksales.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\employees\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\employees\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\shared\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\shared\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\reports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\reports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\reports\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\reports\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\logapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\logapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\services\\dummyemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\services\\dummyemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260119112945_ConvertTaskStatusToEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskSales.Infrastructure\\Migrations\\20260119112945_ConvertTaskStatusToEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260119063726_updatetaskemployeerelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260119063726_updatetaskemployeerelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260114083740_addidentityuseridtoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260114083740_addidentityuseridtoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260111150224_addsaleemployeenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260111150224_addsaleemployeenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260107071947_addsalestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260107071947_addsalestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260107065134_addemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260107065134_addemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260107062350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260107062350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\tasksales.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\tasksales.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\logs\\activitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\logs\\activitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\controllers\\feedback\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\controllers\\feedback\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\logs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\logs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\revalidatingidentityauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\revalidatingidentityauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\models\\userfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\models\\userfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\areas\\identity\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\areas\\identity\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\shared\\pageheader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\shared\\pageheader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107071421_AddSalesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskSales.Infrastructure\\Migrations\\20260107071421_AddSalesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D976503A-A168-5A68-BC3D-731E1E0D6F57}|TaskSales.Api\\TaskSales.Api.csproj|solutionrelative:tasksales.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6679B1B7-4A3C-4122-97D8-6D1BB30EE4F8}|TaskSales.Domain\\TaskSales.Domain.csproj|solutionrelative:tasksales.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.blazor\\data\\migrations\\20260111091020_initidentitysqlexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC6E679-3415-4183-96C1-67C9524F5D1D}|TaskSales.Blazor\\TaskSales.Blazor.csproj|solutionrelative:tasksales.blazor\\data\\migrations\\20260111091020_initidentitysqlexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260122105931_addtaskstartendtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260122105931_addtaskstartendtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|c:\\users\\user\\source\\repos\\tasksalesmanagementsystem\\tasksales.infrastructure\\migrations\\20260119130856_converttaskstatustoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6940EAF9-31E4-462B-BC2A-BDEE642F2AB4}|TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj|solutionrelative:tasksales.infrastructure\\migrations\\20260119130856_converttaskstatustoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:01:45.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkflowDiagram.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\WorkflowDiagram.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\WorkflowDiagram.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\WorkflowDiagram.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\WorkflowDiagram.razor",
+              "ViewState": "AgIAAMoAAADAZmZmZmYmwMYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T10:01:48.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:10:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAADwv4oAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:09:56.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Employees.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Employees.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Employees.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Employees.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:02:15.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Index.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:19:04.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Counter.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:18:44.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavItem.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Shared\\NavItem.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Shared\\NavItem.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Shared\\NavItem.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Shared\\NavItem.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T05:46:11.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T12:08:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv14AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T12:08:43.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sales.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Sales.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Sales.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Sales.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Sales.razor",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:02:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv2cAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:10:27.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Tasks\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Tasks\\TasksController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Tasks\\TasksController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Tasks\\TasksController.cs",
+              "ViewState": "AgIAAHYAAAAAYAAAAAAAwHgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:24:32.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Program.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Program.cs",
+              "ViewState": "AgIAAAAAAABsMDMzMzMbwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:07:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\MongoModels\\UserFeedback.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\MongoModels\\UserFeedback.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\MongoModels\\UserFeedback.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\MongoModels\\UserFeedback.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:36:42.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Mongo\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Mongo\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Mongo\\MongoDbService.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Mongo\\MongoDbService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAEAswBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:38:49.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAvRAAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:33:55.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyTasks.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\MyTasks.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\MyTasks.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\MyTasks.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\MyTasks.razor",
+              "ViewState": "AgIAAAoAAAAAamZmZmYOwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T12:17:21.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tasks.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Tasks.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Tasks.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Tasks.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Tasks.razor",
+              "ViewState": "AgIAAAsAAAAAcWZmZmYkwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:02:01.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Scheduler.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Scheduler.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Scheduler.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Scheduler.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Scheduler.razor",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T12:40:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskSales.Blazor.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "RelativeToolTip": "TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "ViewState": "AgIAABQAAAAAAAAAAABIPRUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-06T06:02:31.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\_Imports.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\_Imports.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\_Imports.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\_Imports.razor",
+              "ViewState": "AgIAAAwAAADgzMzMzMwiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:15:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskStatusChartDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskStatusChartDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\TaskStatusChartDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskStatusChartDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\TaskStatusChartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:58:12.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskStatusUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskStatusUpdateDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\TaskStatusUpdateDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskStatusUpdateDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\TaskStatusUpdateDto.cs",
+              "ViewState": "AgIAAAQAAACQZmZmZmYmwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:14:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskScheduleDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskScheduleDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\TaskScheduleDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskScheduleDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\TaskScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:41:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:19:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Enums\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "TaskSales.Domain\\Enums\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Enums\\TaskPriority.cs",
+              "RelativeToolTip": "TaskSales.Domain\\Enums\\TaskPriority.cs",
+              "ViewState": "AgIAAAMAAACwMzMzMzMbwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:35:15.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Dashboard\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Dashboard\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Dashboard\\DashboardController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Dashboard\\DashboardController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:00:20.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskSales.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "TaskSales.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:16:52.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SchedulerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\SchedulerService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Services\\SchedulerService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\SchedulerService.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Services\\SchedulerService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:09:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SchedulerEvent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\SchedulerEvent.cs",
+              "RelativeDocumentMoniker": "TaskSales.Domain\\Entities\\SchedulerEvent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\SchedulerEvent.cs",
+              "RelativeToolTip": "TaskSales.Domain\\Entities\\SchedulerEvent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:06:28.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SchedulerEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SchedulerEventDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\SchedulerEventDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SchedulerEventDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\SchedulerEventDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:07:20.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Sales\\SalesController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Sales\\SalesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Sales\\SalesController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Sales\\SalesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:12:57.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SchedulerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Scheduler\\SchedulerController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Scheduler\\SchedulerController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Scheduler\\SchedulerController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Scheduler\\SchedulerController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:14:13.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:12:07.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISchedulerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ISchedulerService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\Interfaces\\ISchedulerService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ISchedulerService.cs",
+              "RelativeToolTip": "TaskSales.Application\\Interfaces\\ISchedulerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:08:10.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAADwmJmZmZklwA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:22:10.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ISaleService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\Interfaces\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ISaleService.cs",
+              "RelativeToolTip": "TaskSales.Application\\Interfaces\\ISaleService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:09:38.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SaleDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\SaleDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SaleDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\SaleDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:07:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "TaskSales.Domain\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\Sale.cs",
+              "RelativeToolTip": "TaskSales.Domain\\Entities\\Sale.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:03:20.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Services\\SaleService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\SaleService.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Services\\SaleService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:10:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SaleApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\SaleApiService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\SaleApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\SaleApiService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\SaleApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:05:16.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TaskApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\TaskApiService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\TaskApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\TaskApiService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\TaskApiService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:04:44.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TaskSales.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\TaskSales.Api.csproj",
+              "RelativeDocumentMoniker": "TaskSales.Api\\TaskSales.Api.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\TaskSales.Api.csproj",
+              "RelativeToolTip": "TaskSales.Api\\TaskSales.Api.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-06T05:49:08.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TaskReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Tasks\\TaskReportsController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Tasks\\TaskReportsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Tasks\\TaskReportsController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Tasks\\TaskReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:50:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DashboardKpiDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\DashboardKpiDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\DashboardKpiDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\DashboardKpiDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\DashboardKpiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:52:11.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TaskSales.Api",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\TaskSales.Api.csproj",
+              "RelativeDocumentMoniker": "TaskSales.Api\\TaskSales.Api.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\TaskSales.Api.csproj",
+              "RelativeToolTip": "TaskSales.Api\\TaskSales.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-06T07:05:41.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TaskSales.Blazor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "RelativeToolTip": "TaskSales.Blazor\\TaskSales.Blazor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T04:22:03.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "TaskSales.Application\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:20:07.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "TaskSales.Domain\\Enums\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "TaskSales.Domain\\Enums\\TaskStatus.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:16:59.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Services\\TaskService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:49:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DashboardApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\DashboardApiService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\DashboardApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\DashboardApiService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\DashboardApiService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:01:40.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20260127125245_AddTaskStatusAndPriority.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260127125245_AddTaskStatusAndPriority.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260127125245_AddTaskStatusAndPriority.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260127125245_AddTaskStatusAndPriority.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260127125245_AddTaskStatusAndPriority.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:52:45.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EmployeeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\EmployeeApiService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\EmployeeApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\EmployeeApiService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\EmployeeApiService.cs",
+              "ViewState": "AgIAAA8AAACANzMzMzMTwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:05:01.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EmployeeState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\EmployeeState.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\EmployeeState.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\EmployeeState.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\EmployeeState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:12:06.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FeedbackApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\FeedbackApiService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\FeedbackApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\FeedbackApiService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\FeedbackApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:05:58.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ReportApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\ReportApiService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\ReportApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\ReportApiService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\ReportApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:05:30.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:54:25.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SalesReportService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\SalesReportService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Services\\SalesReportService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\SalesReportService.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Services\\SalesReportService.cs",
+              "ViewState": "AgIAAAkAAACAZWZmZmYswB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:24:37.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:33:40.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ISalesReportService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ISalesReportService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\Interfaces\\ISalesReportService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\ISalesReportService.cs",
+              "RelativeToolTip": "TaskSales.Application\\Interfaces\\ISalesReportService.cs",
+              "ViewState": "AgIAAAYAAACgMzMzMzMbwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:23:53.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "TaskSales.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:32:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAQAAACANTMzMzMLwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:32:07.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TaskReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskReportDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\TaskReportDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\TaskReportDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\TaskReportDto.cs",
+              "ViewState": "AgIAAAIAAACcZmZmZmYkwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:49:13.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SalesTrendDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SalesTrendDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\SalesTrendDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SalesTrendDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\SalesTrendDto.cs",
+              "ViewState": "AgIAAAYAAABANDMzMzMLwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:12:31.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SalesReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SalesReportDto.cs",
+              "RelativeDocumentMoniker": "TaskSales.Application\\DTOs\\SalesReportDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Application\\DTOs\\SalesReportDto.cs",
+              "RelativeToolTip": "TaskSales.Application\\DTOs\\SalesReportDto.cs",
+              "ViewState": "AgIAAAYAAADAMzMzMzMbwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:23:20.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "TaskSales.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "TaskSales.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAwAAACAZ2ZmZmb2vxQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:29:50.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "ViewState": "AgIAADgAAACoZmZmZqYwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:37:46.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "TaskSales.Blazor\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-09T12:07:05.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MainLayout.razor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:56:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20260122105931_AddTaskStartEndTime.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260122105931_AddTaskStartEndTime.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260122105931_AddTaskStartEndTime.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260122105931_AddTaskStartEndTime.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260122105931_AddTaskStartEndTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T10:59:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Reports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Reports.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Reports.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Reports.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Reports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:02:46.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SalesReportController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Reports\\SalesReportController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Reports\\SalesReportController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Reports\\SalesReportController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Reports\\SalesReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:26:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "LogApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\LogApiService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\LogApiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\LogApiService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\LogApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:05:44.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DummyEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\DummyEmailSender.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Services\\DummyEmailSender.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Services\\DummyEmailSender.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Services\\DummyEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:29:53.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "20260119130856_ConvertTaskStatusToEnum.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260119130856_ConvertTaskStatusToEnum.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260119130856_ConvertTaskStatusToEnum.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260119130856_ConvertTaskStatusToEnum.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260119130856_ConvertTaskStatusToEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:08:56.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260119112945_ConvertTaskStatusToEnum.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260119112945_ConvertTaskStatusToEnum.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260119112945_ConvertTaskStatusToEnum.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260119112945_ConvertTaskStatusToEnum.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260119112945_ConvertTaskStatusToEnum.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:29:45.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20260119063726_UpdateTaskEmployeeRelations.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260119063726_UpdateTaskEmployeeRelations.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260119063726_UpdateTaskEmployeeRelations.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260119063726_UpdateTaskEmployeeRelations.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260119063726_UpdateTaskEmployeeRelations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:37:27.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJgAAAAA2czMzMwmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:37:56.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20260111150224_AddSaleEmployeeNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260111150224_AddSaleEmployeeNavigation.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260111150224_AddSaleEmployeeNavigation.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260111150224_AddSaleEmployeeNavigation.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260111150224_AddSaleEmployeeNavigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:02:24.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20260107071947_AddSalesTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107071947_AddSalesTable.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260107071947_AddSalesTable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107071947_AddSalesTable.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260107071947_AddSalesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:19:47.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20260114083740_AddIdentityUserIdToEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260114083740_AddIdentityUserIdToEmployee.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260114083740_AddIdentityUserIdToEmployee.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260114083740_AddIdentityUserIdToEmployee.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260114083740_AddIdentityUserIdToEmployee.cs",
+              "ViewState": "AgIAADwAAACAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:37:41.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20260107065134_AddEmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107065134_AddEmployeeTable.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260107065134_AddEmployeeTable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107065134_AddEmployeeTable.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260107065134_AddEmployeeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:51:34.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20260107062350_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107062350_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260107062350_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107062350_InitialCreate.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260107062350_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:23:51.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T10:56:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TaskSales.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj",
+              "RelativeToolTip": "TaskSales.Infrastructure\\TaskSales.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T08:36:20.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\appsettings.json",
+              "RelativeToolTip": "TaskSales.Blazor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T06:06:22.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskSales.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\appsettings.json",
+              "RelativeToolTip": "TaskSales.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T06:40:08.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ActivityLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Logs\\ActivityLogsController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Logs\\ActivityLogsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Logs\\ActivityLogsController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Logs\\ActivityLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMLwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T05:50:16.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Feedback\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Controllers\\Feedback\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Controllers\\Feedback\\FeedbackController.cs",
+              "RelativeToolTip": "TaskSales.Api\\Controllers\\Feedback\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:43:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\appsettings.Development.json",
+              "RelativeToolTip": "TaskSales.Blazor\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-11T08:59:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T06:39:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20260111091020_InitIdentitySqlExpress.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\Migrations\\20260111091020_InitIdentitySqlExpress.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Data\\Migrations\\20260111091020_InitIdentitySqlExpress.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\Migrations\\20260111091020_InitIdentitySqlExpress.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Data\\Migrations\\20260111091020_InitIdentitySqlExpress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:10:20.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T06:39:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:39:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Logs.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Logs.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Logs.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Logs.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Logs.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:03:16.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\FetchData.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\FetchData.razor",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:19:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Feedback.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Feedback.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Feedback.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Feedback.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Feedback.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:03:01.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\Error.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\Error.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:35:44.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T05:53:28.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "LogOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T07:46:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "RevalidatingIdentityAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAD0AAAAAy8zMzMwSwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T11:25:33.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:55:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "UserFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Models\\UserFeedback.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Models\\UserFeedback.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Models\\UserFeedback.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Models\\UserFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:55:08.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TaskSales.Blazor\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T07:46:39.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "PageHeader.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Shared\\PageHeader.razor",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Shared\\PageHeader.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Shared\\PageHeader.razor",
+              "RelativeToolTip": "TaskSales.Blazor\\Shared\\PageHeader.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T06:03:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20260107071421_AddSalesTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107071421_AddSalesTable.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Migrations\\20260107071421_AddSalesTable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Migrations\\20260107071421_AddSalesTable.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Migrations\\20260107071421_AddSalesTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:14:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskSales.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\appsettings.Development.json",
+              "RelativeToolTip": "TaskSales.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T06:40:10.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Data\\WeatherForecastService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Data\\WeatherForecastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:00:05.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Data\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:00:03.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskSales.Blazor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Blazor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskSales.Blazor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:00:00.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskSales.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskSales.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T08:38:45.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskSales.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "TaskSales.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:59:51.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskSales.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskSalesManagementSystem\\TaskSales.Domain\\Class1.cs",
+              "RelativeToolTip": "TaskSales.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:55:26.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

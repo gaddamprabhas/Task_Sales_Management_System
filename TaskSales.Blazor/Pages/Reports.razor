@@ -1,0 +1,40 @@
+﻿@page "/reports"
+@attribute [Authorize(Roles = "Admin")]
+
+@using Syncfusion.Blazor.Charts
+@using TaskSales.Application.DTOs
+
+@inject ReportApiService ReportApi
+
+
+<h3>Task Report by Employee</h3>
+
+@if (reportData.Count == 0)
+{
+    <p>No data available</p>
+}
+else
+{
+    <SfChart Title="Employee Sales Performance">
+        <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category"
+                           Title="Employee" />
+        <ChartPrimaryYAxis Title="Total Sales (₹)" />
+
+        <ChartSeriesCollection>
+            <ChartSeries DataSource="@reportData"
+                         XName="EmployeeName"
+                         YName="TotalSales"
+                         Type="ChartSeriesType.Column">
+            </ChartSeries>
+        </ChartSeriesCollection>
+    </SfChart>
+}
+
+@code {
+    private List<SalesReportDto> reportData = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        reportData = await ReportApi.GetSalesByEmployeeAsync();
+    }
+}
